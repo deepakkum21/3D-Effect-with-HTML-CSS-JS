@@ -20,7 +20,7 @@ body {
 }
 .card {
   transform-style: preserve-3d;
-  min-height: 80vh;
+  min-height: 90vh;
   width: 35rem;
   border-radius: 30px;
   padding: 0rem 5rem;
@@ -50,6 +50,13 @@ body {
   border-radius: 50%;
   z-index: 1;
 }
+
+/* .info {
+  display: flex;
+
+  justify-content: center;
+  flex-direction: column;
+} */
 
 .info h1 {
   font-size: 3rem;
